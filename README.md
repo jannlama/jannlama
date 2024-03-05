@@ -25,4 +25,5 @@
   <p>These are all programming technologies that I can use and have used before in a project</p>
   <img src="https://img.shields.io/badge/SDL2-182C4C?style=for-the-badge&logo=go&logoColor=white" alt="SDL2 Binding (Go)"/>
   <img src="https://img.shields.io/badge/SFML-84C43C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="SDL2 Binding (Go)"/>
+  <img src="https://img.shields.io/badge/Postgres-386494?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
 </div>
